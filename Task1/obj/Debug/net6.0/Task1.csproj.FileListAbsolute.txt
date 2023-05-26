@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/bin/Debug/net6.0/Task1
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/bin/Debug/net6.0/Task1.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/refint/Task1.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./Dz6/Task1/obj/Debug/net6.0/ref/Task1.dll
